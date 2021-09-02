@@ -1,0 +1,7 @@
+{
+  "name": "hariweconnect",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
